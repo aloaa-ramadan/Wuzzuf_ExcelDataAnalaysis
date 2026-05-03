@@ -65,9 +65,15 @@ Wuzzuf Job Market Dataset
 ---
 
 ## 📸 Dashboard Preview
->
+
+![Dashboard Preview](IMG-20251118-WA0096.jpg)
 
 ---
+
+---
+
+## 🎥 Project Demo
+[Watch Project Explanation Video](https://drive.google.com/file/d/1IFEWFWzox4qL0kOcTOVy3yn9xpaCSFG6/view?usp=drivesdk)
 
 ## 👩‍💻 Connect With Me
 - LinkedIn: [Alaa Ayman Ramadan](www.linkedin.com/in/alaa-ramadan-)
